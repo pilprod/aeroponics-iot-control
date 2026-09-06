@@ -1,0 +1,17 @@
+# Historical image version retained for provenance, not a current deployment recommendation.
+services:
+  zigbee2mqtt:
+    image: koenkk/zigbee2mqtt:1.40.0
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
+      - /run/udev:/run/udev:ro
+    ports:
+      - "127.0.0.1:8080:8080"
+    devices:
+      - "${ZIGBEE_DEVICE:-/dev/ttyUSB0}:/dev/ttyACM0"
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "1"

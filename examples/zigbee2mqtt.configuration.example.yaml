@@ -1,0 +1,10 @@
+# Newly written generic example. No installed network or device inventory is included.
+homeassistant: true
+permit_join: false
+mqtt:
+  base_topic: zigbee2mqtt
+  server: mqtt://mqtt:1883
+serial:
+  port: /dev/ttyACM0
+frontend:
+  port: 8080

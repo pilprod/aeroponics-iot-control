@@ -1,0 +1,16 @@
+# Historical local-lab example. Anonymous access; never expose publicly.
+services:
+  mqtt:
+    image: eclipse-mosquitto:2.0
+    restart: unless-stopped
+    volumes:
+      - ./data:/mosquitto
+    ports:
+      - "127.0.0.1:1883:1883"
+      - "127.0.0.1:9001:9001"
+    command: mosquitto -c /mosquitto-no-auth.conf
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "1"
