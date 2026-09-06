@@ -62,20 +62,9 @@ Five installation and workbench photographs have AI-retouched backgrounds or ide
 
 ### Root-zone observations
 
-<table>
-  <tr>
-    <td width="50%"><img src="docs/images/root-zone.jpg" alt="Roots observed above an aeroponic chamber" width="420"></td>
-    <td width="50%"><img src="docs/images/root-chamber.jpg" alt="Root chamber and its contents during the experiments" width="420"></td>
-  </tr>
-  <tr>
-    <td><strong>Root-zone overview</strong><br>A visual record from the experiments.</td>
-    <td><strong>Root chamber</strong><br>The chamber used for root-zone observations.</td>
-  </tr>
-</table>
+<p><img src="docs/images/root-chamber.jpg" alt="Root chamber with visible roots and tubing during the experiments" width="420"></p>
 
-<p><img src="docs/images/root-inspection.jpg" alt="Wide close-up of roots, cropped from the original inspection photograph" width="900"></p>
-
-**Root inspection** — a closer look at root development, cropped from the original photograph.
+**Root chamber** — roots, chamber and tubing in the experimental installation.
 
 ## Configuration
 
