@@ -56,9 +56,9 @@ Five installation and workbench photographs have AI-retouched backgrounds or ide
 
 **Wiring diagram** — component connections documented during system design.
 
-<p><img src="docs/images/breadboard-prototype.jpg" alt="Breadboard prototype with connected electronic components and jumper wires" width="600"></p>
+<p><a href="docs/images/breadboard-prototype.jpg"><img src="docs/images/breadboard-prototype.jpg" alt="Breadboard prototype with connected electronic components and jumper wires" width="480"></a></p>
 
-**Breadboard prototype** — early component connections before final assembly.
+**Breadboard prototype** — component connections and jumper wiring during controller prototyping. Click the photo to open the full 480 × 360 image.
 
 ### Root-zone observations
 
