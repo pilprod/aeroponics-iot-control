@@ -15,26 +15,65 @@ The controllers use Python, `paho-mqtt`, JSON, command-line arguments, state sub
 
 Photos from the original personal R&D installation. They show the wider hardware and Home Assistant environment; this repository contains only the controller and integration snapshot described above.
 
+Five installation and workbench photographs have AI-retouched backgrounds or identifying areas for privacy and presentation.
+
+### Monitoring and control
+
 <p><img src="docs/images/home-assistant-dashboard.jpg" alt="Home Assistant dashboard displaying climate and water-system measurements, lighting controls and device states" width="900"></p>
 
 **Home Assistant dashboard** — the interface for climate, lighting and water-system monitoring and control.
 
+### Installation and assembly
+
 <table>
   <tr>
-    <td width="33%"><img src="docs/images/lighting-ventilation.jpg" alt="Suspended LED lighting, ventilation equipment and wiring in the experimental growing enclosure" width="260"></td>
-    <td width="33%"><img src="docs/images/water-system.jpg" alt="Water-system assembly with reservoirs, dosing pumps, valves, tubing and wiring" width="260"></td>
-    <td width="33%"><img src="docs/images/root-zone.jpg" alt="Root development observed above the aeroponic chamber" width="260"></td>
+    <td width="50%"><img src="docs/images/lighting-ventilation.jpg" alt="Suspended lighting, ventilation equipment and wiring inside the experimental enclosure" width="420"></td>
+    <td width="50%"><img src="docs/images/water-system.jpg" alt="Water-system assembly with reservoirs, pumps, valves, tubing and wiring" width="420"></td>
   </tr>
   <tr>
     <td><strong>Lighting &amp; ventilation</strong><br>Enclosure, suspended fixtures and wiring.</td>
     <td><strong>Water system</strong><br>Reservoirs, pumps, valves and circulation plumbing.</td>
-    <td><strong>Root-zone observation</strong><br>A visual record from the experiments.</td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/images/enclosure-camera.jpg" alt="Camera and equipment mounted in the experimental enclosure" width="420"></td>
+    <td width="50%"><img src="docs/images/power-shield.jpg" alt="Commercial power shield board integrated into the prototype" width="420"></td>
+  </tr>
+  <tr>
+    <td><strong>Enclosure camera</strong><br>Camera placement within the installation.</td>
+    <td><strong>Power shield</strong><br>A commercial board integrated into the electronics assembly.</td>
   </tr>
 </table>
 
-<p><img src="docs/images/electronics-workbench.jpg" alt="Electronics workbench with development boards, sensors, wiring and soldering tools during prototyping" width="900"></p>
+### Wiring and prototypes
 
-**Electronics prototyping** — sensor and controller development, wiring and soldering at the workbench.
+<p><img src="docs/images/electronics-workbench.jpg" alt="Electronics workbench with development boards, sensors, wiring and soldering tools" width="900"></p>
+
+**Electronics workbench** — component wiring and soldering during sensor and controller prototyping.
+
+<p><img src="docs/images/wiring-diagram.jpg" alt="Original wiring diagram showing connections between system components" width="900"></p>
+
+**Wiring diagram** — component connections documented during system design.
+
+<p><img src="docs/images/breadboard-prototype.jpg" alt="Breadboard prototype with connected electronic components and jumper wires" width="600"></p>
+
+**Breadboard prototype** — early component connections before final assembly.
+
+### Root-zone observations
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/images/root-zone.jpg" alt="Roots observed above an aeroponic chamber" width="420"></td>
+    <td width="50%"><img src="docs/images/root-chamber.jpg" alt="Root chamber and its contents during the experiments" width="420"></td>
+  </tr>
+  <tr>
+    <td><strong>Root-zone overview</strong><br>A visual record from the experiments.</td>
+    <td><strong>Root chamber</strong><br>The chamber used for root-zone observations.</td>
+  </tr>
+</table>
+
+<p><img src="docs/images/root-inspection.jpg" alt="Wide close-up of roots, cropped from the original inspection photograph" width="900"></p>
+
+**Root inspection** — a closer look at root development, cropped from the original photograph.
 
 ## Configuration
 
