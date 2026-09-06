@@ -2,6 +2,8 @@
 
 Python and MQTT integration work from a personal aeroponics lab. This archival portfolio snapshot shows device-control components, not a complete Home Assistant installation.
 
+Related work: [sensor firmware](https://github.com/pilprod/aeroponics-sensor-firmware) · [project context, LinkedIn associations and photographs](https://papou.work/portfolio.html#home).
+
 ## Included work
 
 - `hisense.py`: MQTT state tracking and IR commands for power, mode, temperature, fan, swing and display settings.
