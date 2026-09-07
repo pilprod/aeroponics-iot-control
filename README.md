@@ -62,7 +62,7 @@ Five installation and workbench photographs have AI-retouched backgrounds or ide
 
 ### Root-zone observations
 
-<p><img src="docs/images/root-chamber.jpg" alt="Root chamber with visible roots and tubing during the experiments" width="420"></p>
+<p><img src="docs/images/root-chamber.jpg" alt="Root chamber with visible roots and tubing during the experiments" width="100%"></p>
 
 **Root chamber** — roots, chamber and tubing in the experimental installation.
 
