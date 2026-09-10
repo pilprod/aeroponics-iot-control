@@ -17,13 +17,13 @@ The controllers use Python, `paho-mqtt`, JSON, command-line arguments, state sub
 
 Photos from the original personal R&D installation. They show the wider hardware and Home Assistant environment; this repository contains only the controller and integration snapshot described above.
 
-Six installation and workbench photographs have AI-retouched backgrounds or identifying areas for privacy and presentation.
+Seven installation and workbench photographs have AI-retouched backgrounds or identifying areas for privacy and presentation.
 
 ### Monitoring and control
 
-<p><img src="docs/images/home-assistant-dashboard.jpg" alt="Home Assistant dashboard displaying climate and water-system measurements, lighting controls and device states" width="900"></p>
+<p><img src="docs/images/home-assistant-dashboard-privacy-20260909.jpg" alt="Home Assistant dashboard displaying climate and water-system measurements, lighting controls and device states" width="900"></p>
 
-**Home Assistant dashboard** — the interface for climate, lighting and water-system monitoring and control.
+**Home Assistant dashboard** — the interface for climate, lighting and water-system monitoring and control. Patterned wallpaper around the monitor was replaced with a plain wall using AI-assisted background retouching for privacy.
 
 ### Installation and assembly
 
