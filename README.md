@@ -17,7 +17,7 @@ The controllers use Python, `paho-mqtt`, JSON, command-line arguments, state sub
 
 Photos from the original personal R&D installation. They show the wider hardware and Home Assistant environment; this repository contains only the controller and integration snapshot described above.
 
-Five installation and workbench photographs have AI-retouched backgrounds or identifying areas for privacy and presentation.
+Six installation and workbench photographs have AI-retouched backgrounds or identifying areas for privacy and presentation.
 
 ### Monitoring and control
 
@@ -56,9 +56,9 @@ Five installation and workbench photographs have AI-retouched backgrounds or ide
 
 **Wiring diagram** — component connections documented during system design.
 
-<p><a href="docs/images/breadboard-prototype-1024.jpg"><img src="docs/images/breadboard-prototype-1024.jpg" alt="Breadboard-mounted sensor modules and jumper wiring during controller prototyping" width="900"></a></p>
+<p><a href="docs/images/breadboard-prototype-privacy-20260909.jpg"><img src="docs/images/breadboard-prototype-privacy-20260909.jpg" alt="Breadboard-mounted sensor modules and jumper wiring during controller prototyping" width="900"></a></p>
 
-**Breadboard prototype** — breadboard-mounted sensor modules and jumper wiring during controller prototyping. Full original frame, without cropping or AI redraw. Click to open the 1024 × 768 photograph.
+**Breadboard prototype** — breadboard-mounted sensor modules and jumper wiring during controller prototyping. The patterned wallpaper was replaced with a plain wall using AI-assisted background retouching for privacy. Click to open the 1024 × 768 photograph.
 
 ### Root-zone observations
 
